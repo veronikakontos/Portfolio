@@ -13,13 +13,13 @@
 
 ## General Information
 This simple website portfolio is to know me a bit better as a full stack developer.  
-You can see some projects I have been working on past 3 months and for each stuck is different finall project.
+You can see some of my projects I have been working on past few months and for each stuck is different finall project.
 During this coding jurney I learn alot informations about programing, coding and developing.
 
 <br>
 
 
-## Technologies Used
+## Technologies used in this Portfolio
 - JavaScript
 - Html 5
 - CSS
@@ -28,24 +28,11 @@ During this coding jurney I learn alot informations about programing, coding and
 
 ## Screenshots
 
-![Login and Registration](/screenshots/logreg.png)
-
-Main Homepage where each user can see all destinations created by user or other users. Delete destination can only creator of the destination.
-![All Destinations](/screenshots/alldest.png)
-![All Destinations](/screenshots/deletedest.png)
-
-Welcome page where user who is log in, will see his/her/their name and can see destination and all info about the trip
-![All Destinations](/screenshots/welcomedest.png)
-
-Real-time weather from choosen city destination
-![API](/screenshots/apiweather.png)
-
-Edit or Update destination
-![Edit/Update Profile](/screenshots/createdest.png)
-
-Popular destination is preview as video(repeating 5sec)
-![Video of popular destination](/screenshots/video.png)
-
+![hHeader](./screenshot/header.png)
+![About Me](./screenshot/aboutme.png)
+![Portfolio](./screenshots/../screenshot/projects.png)
+![Projects](./screenshot/infoprojects.png)
+![PContact](./screenshot/portfolio-contact.png)
 <br>
 
 ## Project Status
