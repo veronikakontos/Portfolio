@@ -1,4 +1,4 @@
-# PORTFOLIO  - a few words about me 
+# PORTFOLIO  - a few words about me and some projects i have done
 <!-- > Live demo [_here_](https://www.example.com). -->
 
 ## Table of Contents
