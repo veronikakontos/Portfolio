@@ -1,4 +1,4 @@
-# PORTFOLIO  - a few words about me and some projects i have done
+# PORTFOLIO  - a few words about me and some projects I have done during my study 
 <!-- > Live demo [_here_](https://www.example.com). -->
 
 ## Table of Contents
