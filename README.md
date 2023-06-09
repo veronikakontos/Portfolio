@@ -1,4 +1,4 @@
-# PORTFOLIO  - a few words about me and some projects I have done during my study 
+# PORTFOLIO  - a few words about me and some projects I have done during my study as a Software developer
 <!-- > Live demo [_here_](https://www.example.com). -->
 
 ## Table of Contents
